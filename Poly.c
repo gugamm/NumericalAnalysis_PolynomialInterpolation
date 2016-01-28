@@ -1,8 +1,7 @@
 /**************************************
 * NOME : GUSTAVO MARQUES MARTINS
-* MATRICULA : 1310630
 * LAB 6 : INTERPOLACAO DE POLINOMIOS
-* ULTIMA MODIFICA«√O : 11/10/2015
+* ULTIMA MODIFICA√á√ÉO : 11/10/2015
 **************************************/
 
 #include <stdlib.h>
@@ -39,7 +38,7 @@ static double calculateNewtonB(Sample *s, int a, int b);
 ***************************************/
 
 /****************************************************************
-* Determinar as n amostras para a aproximaÁ„o de uma funÁ„o f
+* Determinar as n amostras para a aproxima√ß√£o de uma fun√ß√£o f
 * dentro do intervalo [a,b]
 * Exemplo : para n = 1(1 amostra)
 * (a+b)/2 + (b-a)/2 * cos( PI/2 )
