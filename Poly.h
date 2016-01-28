@@ -1,8 +1,7 @@
 /**************************************
 * NOME : GUSTAVO MARQUES MARTINS
-* MATRICULA : 1310630
 * LAB 6 : INTERPOLACAO DE POLINOMIOS
-* ULTIMA MODIFICA«√O : 11/10/2015
+* ULTIMA MODIFICA√á√ÉO : 11/10/2015
 **************************************/
 
 typedef struct sample Sample;
@@ -23,7 +22,7 @@ int plGetN(Sample *s);
 void plFreeSample(Sample *s);
 
 /****************************************************************
-* Determinar as n amostras para a aproximaÁ„o de uma funÁ„o f
+* Determinar as n amostras para a aproxima√ß√£o de uma fun√ß√£o f
 * dentro do intervalo [a,b]
 *****************************************************************/
 Sample *chebyshev(int n, double a, double b, double(*f) (double x));
