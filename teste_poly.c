@@ -1,8 +1,7 @@
 /**************************************
 * NOME : GUSTAVO MARQUES MARTINS
-* MATRICULA : 1310630
 * LAB 6 : INTERPOLACAO DE POLINOMIOS
-* ULTIMA MODIFICA«√O : 11/10/2015
+* ULTIMA MODIFICA√á√ÉO : 11/10/2015
 **************************************/
 
 #include <conio.h>
